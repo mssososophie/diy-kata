@@ -1,3 +1,7 @@
 import { humanCatDogYears } from '../src'
 
-// Look Ma, no handlebars!!!
+test ('humanCatDogYears converts ages between animals and humans', () => {
+    expect (human);
+    expect (cat);
+    expect (dog);
+});
